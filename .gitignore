@@ -10,6 +10,9 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 
+build/*
+formats/*
+
 # Prerequisites
 *.d
 
@@ -98,5 +101,3 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
-
-build/*
